@@ -1,6 +1,8 @@
 # lets-neuter-archie
 A script to fix file permissions in Arch Linux in case you've broken something.  Note that this script is only meant to operate on system files, not the home directory.  Nonetheless, the home directory is fair game.  
 
+The name "lets-neuter-archie" is simply an expression meaning I do not enjoy the Archie comic series.
+
 # WARNING
 There is no guarantee that this program will work.  
 
